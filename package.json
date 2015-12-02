@@ -16,7 +16,7 @@
     "url": "https://github.com/davidkpiano/sass-svg/issues"
   },
   "homepage": "https://github.com/davidkpiano/sass-svg#readme",
-  "dependencies": {
+  "peerDependencies": {
     "sassdash": "^0.8.0"
   }
 }
